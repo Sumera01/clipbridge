@@ -8,10 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "ably": "^2.22.1",
     "next": "15.1.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "ioredis": "^5.3.2"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
